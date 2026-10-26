@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Accidental local copies of the paid product — never commit
+*Bookkeeping*v1*.xlsx
+*Profit-Tracker_v1*.xlsx
+*FULL*
+*full-version*
